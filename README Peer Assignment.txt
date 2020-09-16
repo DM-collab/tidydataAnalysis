@@ -19,7 +19,17 @@ For each record it is provided:
 
 The final data shows:
 =======================================
--Mean summary for each Mean, meanFrequency and standard deviation with detail of Accelerometer,AccelerometerJerk, AccelerometerMagnitude, AcelerometerJerkMagnitude, Gyroscope, GyroscopeJerk,GyroscopeMagnitude, GyroscopeJerkMagnitude. 
+
+Code Book:
+-Summary for each Mean, meanFrequency and standard deviation. 
+
+-Detail of Accelerometer,AccelerometerJerk, AccelerometerMagnitude, AcelerometerJerkMagnitude,
+
+-Detail of Gyroscope, GyroscopeJerk,GyroscopeMagnitude, GyroscopeJerkMagnitude. 
+
+Jerk: Linear acceleration.
+
+Each of the acceleration is represented in Axis, XYZ
 
 -Activity includes 6 types: [Laying Stiting Standing Walking walking downstairs and Walking upstairs]
 
